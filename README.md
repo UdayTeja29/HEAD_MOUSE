@@ -6,7 +6,7 @@ In this project we mainly used 3 components
 3.Software(Point N click and Click N Type)
 
 Process Steps:
-FIrst we send the code to the arduino micro using arduino ide.
+FIrst we send the code to the arduino micro using arduino ide(You need to download the extensions to run the code).
 Next we make the connections.
 We install the software which are available online for free.
-That's it you are ready to go
+That's it you are ready to go.
